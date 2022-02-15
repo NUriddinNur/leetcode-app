@@ -3,7 +3,7 @@ const problems = [
 	{ 
         problemCount: 1,
         condition: 'sum',
-		definition: 'make a function sum that finds the sum of numbes',
+		definition: 'array elementlari yig\'ndisini hisoblovchi sum funksiyasini yozing',
 		tests: [
 			{
 				test: [4, 4, 4],
